@@ -7,11 +7,11 @@ struct cliente {
 };
 int main() {
     struct cliente clientes[7] = {
-        {"Sara de Paula", 30, 'M'},
+        {"Sara de Paula", 30, 'F'},
         {"Beatriz Alves", 25, 'F'},
         {"Pedro Silva", 35, 'M'},
         {"Samyra Ferreira", 28, 'F'},
-        {"Letícia Souza", 40, 'M'},
+        {"Letícia Souza", 40, 'F'},
         {"Ana Lima", 40, 'F'},
         {"Vitória Silva", 40, 'F'}
     };
